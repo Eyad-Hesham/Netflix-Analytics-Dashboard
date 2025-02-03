@@ -19,8 +19,7 @@ Key features
 
 Dataset used
 
-The dataset used in this project is the "Netflix Movies and TV Shows* dataset available on Dataset link:
-ix-shows?resou rce=download
+hgps://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 
 ─────────────────────────────────────────────────────────────────────────
 
