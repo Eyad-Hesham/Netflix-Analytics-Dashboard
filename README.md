@@ -1,4 +1,4 @@
-# Netflix-Titles-Analytics-Dashboard
+# Netflix-Analytics-Dashboard
 
 Data Cleaning:
 •Replaced empty cells in key columns (country, director, cast) with "unknown."
