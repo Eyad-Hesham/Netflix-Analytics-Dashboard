@@ -5,7 +5,7 @@ data transformation techniques and interactive visualizations, the project highl
 analysis, the evolution of content over time. The final deliverable is an interactive dashboard that allows users to explore these insights
 through dynamic filterirg and visualization.
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────
 
 Key features
 
@@ -13,7 +13,8 @@ Key features
 • Interactive dashboard using Power Bl.
 • Extract important insights about popular genres, release years, and ratings distributions.
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────
+
 
 
 Dataset used
@@ -21,7 +22,8 @@ Dataset used
 The dataset used in this project is the "Netflix Movies and TV Shows* dataset available on Dataset link:
 ix-shows?resou rce=download
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────
+
 
 
 Questions (KPIs)
@@ -34,7 +36,8 @@ Questions (KPIs)
 6. the categories according to their average duration.
 7. What are the percentage of movies rates?
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────
+
 
 	
 Tools used
@@ -43,7 +46,8 @@ Tools used
 • Power Bl for Visualization
 • Adobe Photoshop for creatirg the background
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────
+
 
 
 Explore the interactive dashboard on power bi services: https://app.powerbi.com/groups/3a074fbc-a658-4acd-b459-13682506e70e/reports/735acc6f-6465-4e97-9a53-0d1af0bf1096/8a86578e114ea13873a3?experience=power-bi
