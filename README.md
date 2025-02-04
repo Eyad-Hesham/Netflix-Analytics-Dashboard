@@ -10,7 +10,9 @@ through dynamic filterirg and visualization.
 Key features
 
 • Data cleaning and transformation.
+
 • Interactive dashboard using Power Bl.
+
 • Extract important insights about popular genres, release years, and ratings distributions.
 
 ─────────────────────────────────────────────────────────────────────────
